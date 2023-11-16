@@ -1,7 +1,7 @@
 # using
 
 ```rust
-use esasy_markdown::*;
+use easy_markdown::*;
 
 fn main() {
     let mut mark_text: MarkText = MarkText {
