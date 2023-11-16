@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "esasy_markdown"
+name = "easy_markdown"
 version = "0.1.0"
