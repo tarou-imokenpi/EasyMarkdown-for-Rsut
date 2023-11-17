@@ -4,7 +4,7 @@
 use easy_markdown::*;
 
 fn main() {
-    let mut mark_text: MarkText = MarkText {
+    let mut mark_text = MarkText {
         markdown_text: String::new(),
     };
 
