@@ -1,4 +1,6 @@
-# using
+このリポジトリはrustの練習のためのものです。ライブラリとして使うことは出来ません。
+
+# example
 
 ```rust
 use easy_markdown::*;
